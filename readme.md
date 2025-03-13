@@ -20,7 +20,7 @@ A Python script to batch copy, rename, and enforce landscape orientation for ima
 1. **File Structure**:
    ```
    C:\Users\user\Downloads\  
-   ├── Kelani Auctioneers LOTS/  # Source directory  
+   ├── Auction Auctioneers LOTS/  # Source directory  
    │   └── 1.1.jpg, 1.2.png...  # Original files  
    └── Kelani processed/         # Auto-created destination
    ```
